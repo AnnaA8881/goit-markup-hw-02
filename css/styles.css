@@ -2,13 +2,13 @@
     box-sizing: border-box;
 }
 
-.button.link hover {
-    background: #404BBF;
-}
-
-.body {
+body {
     color: #434455;
     background-color: #FFFFFF;
     font-family: "Roboto", sans-serif;
+}
+
+.button.link hover {
+    background: #404BBF;
 }
 
