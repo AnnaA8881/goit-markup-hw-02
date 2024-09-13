@@ -1,14 +1,28 @@
-* {
-    box-sizing: border-box;
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul, ol {
+    list-style-type: none;
+}
+
+button {
+    cursor: pointer;
 }
 
 body {
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
-    font-family: "Roboto", sans-serif;
+    
 }
 
-.button.link hover {
+header {
+
+}
+
+.button.link hover, button.link focus {
     background: #404BBF;
 }
 
