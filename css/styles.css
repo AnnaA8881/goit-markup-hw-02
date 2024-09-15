@@ -45,26 +45,30 @@ background-color: #2E2F42;
 }
 
 .hero-header {
-font-family: Roboto;
 color: #FFFFFF;
-background-color: ;
+background-color: #2E2F42;
 font-size: 56px;
-font-weight: 700;
-line-height: 60px;
-letter-spacing: 0.02em;
+line-height: 1.07;
 text-align: center;
+letter-spacing: 0.02em;
 }
 
 .hero-button {
 box-shadow: 0px 4px 4px 0px #00000026;
 color: #FFFFFF;
 background-color: #4D5AE5;
-font-family: Roboto;
-font-size: 16px;
 font-weight: 500;
-line-height: 24px;
+font-size: 16px;
+line-height: 1.5;
 letter-spacing: 0.04em;
-text-align: left;
+}
+
+.hero-button hover {
+background-color: #404BBF;
+}
+
+.her-button focus {
+background-color: #404BBF;
 }
 
 /* Hero Styles */
