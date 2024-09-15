@@ -62,7 +62,7 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 }
 
-.hero-button .button:hover , .hero-button .button:focus {
+.hero-button .button: hover , .hero-button .button: focus {
 background-color: #404BBF;
 }
 
