@@ -52,6 +52,20 @@ text-align: left;
 color: #404bbf;
 }
 
+.address {
+font-style: normal;
+}
+
+.address-mail {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.address-mail link:hover , .address-mail link:focus {
+    color: #404bbf;
+}
+
 /* Hero Styles */
 
 .hero {
