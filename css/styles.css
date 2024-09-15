@@ -97,3 +97,23 @@ background-color: #404BBF;
 }
 
 /* Hero Styles */
+
+/* Section 2 Styles */
+
+.features-header {
+color:#2e2f42;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+.features-menu-item-descr {
+    color:#434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+/* Section 2 Styles */
+
