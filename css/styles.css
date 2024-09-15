@@ -38,4 +38,20 @@ text-transform: uppercase;
 color: #2e2f42;
 }
 
-/* Common Styles */
+/* Hero Styles */
+
+.hero {
+background-color: #2E2F42;
+}
+
+.hero-header {
+font-family: Roboto;
+color: #FFFFFF;
+font-size: 56px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0.02em;
+text-align: center;
+}
+
+/* Hero Styles */
