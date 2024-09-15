@@ -48,8 +48,8 @@ letter-spacing: 0.02em;
 text-align: left;
 }
 
-.menu-item-studio-link:hover,
-.menu-item-studio-link:focus {
+.menu-item-link:hover,
+.menu-item-link:focus {
 color: #404bbf;
 }
 
