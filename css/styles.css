@@ -48,7 +48,7 @@ letter-spacing: 0.02em;
 text-align: left;
 }
 
-.menu-item-studio:hover , .menu-item-studio link:active {
+.menu-item-studio:hover , .menu-item-studio .link:focus {
 color: #404bbf;
 }
 
@@ -62,7 +62,7 @@ font-style: normal;
     letter-spacing: 0.02em;
 }
 
-.address-mail link:hover , .address-mail link:focus {
+.address-mail .link:hover , .address-mail .link:focus {
     color: #404bbf;
 }
 
