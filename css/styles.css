@@ -48,22 +48,24 @@ letter-spacing: 0.02em;
 text-align: left;
 }
 
-.menu-item-studio:hover , .menu-item-studio .link:focus {
+.menu-item-studio:hover,
+.menu-item-studio:focus {
 color: #404bbf;
 }
 
-.address {
+.menu-address {
 font-style: normal;
 }
 
 .address-mail {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
 
-.address-mail .link:hover , .address-mail .link:focus {
-    color: #404bbf;
+.address-mail .link:hover,
+.address-mail:focus {
+color: #404bbf;
 }
 
 /* Hero Styles */
