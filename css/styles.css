@@ -5,13 +5,30 @@ a {
     color: inherit;
 }
 
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}
+
 ul, ol {
     list-style-type: none;
     list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+
+li {
+    margin: 0;
 }
 
 button {
     cursor: pointer;
+}
+
+img {
+    display: block;
+    margin: 20px auto; /* Adds vertical spacing and centers the image */
+    max-width: 100%;
+    height: auto;
 }
 
 body {
@@ -19,6 +36,14 @@ body {
     color: #434455;
     background-color: #FFFFFF; 
 }
+
+.container { 
+    max-width: 
+    padding-left:  
+    padding-right:  
+    margin-left:  
+    margin-right:  
+    }    
 
 /* Common Styles */
 
